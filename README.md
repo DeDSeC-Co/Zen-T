@@ -22,21 +22,20 @@ Node.js
 
 Express
 
-(Add your frontend framework here if any)
+HTML
+
+CSS
 
 📦 Installation
-git clone <your-repo-url>
-cd zentask
+git clone https://github.com/DeDSeC-Co/Zen-T
+cd Zen-T
 npm install
-npm start
-Then open:
+npm run dev
 
-http://localhost:3000
+follow through the link
 🎯 Philosophy
 ZenTask is built around one simple idea:
 
 One task at a time. Clear mind. Stay Zen.
 
-No feature overload.
-No unnecessary complexity.
 Just focus.
