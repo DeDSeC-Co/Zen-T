@@ -1,17 +1,42 @@
-# taskmngr
-# React + Vite
+ZenTask
+Find your Zen in the chaos.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ZenTask is a minimal, clean task management app built with Node.js.
+Simple. Fast. Focused.
 
-Currently, two official plugins are available:
+No clutter. No distractions. Just pure productivity.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Features
+➕ Add new tasks
 
-## React Compiler
+✅ Mark tasks as completed
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+❌ Delete tasks
 
-## Expanding the ESLint configuration
+📊 Track your progress
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🌙 Clean dark / AMOLED aesthetic
+
+🚀 Tech Stack
+Node.js
+
+Express
+
+(Add your frontend framework here if any)
+
+📦 Installation
+git clone <your-repo-url>
+cd zentask
+npm install
+npm start
+Then open:
+
+http://localhost:3000
+🎯 Philosophy
+ZenTask is built around one simple idea:
+
+One task at a time. Clear mind. Stay Zen.
+
+No feature overload.
+No unnecessary complexity.
+Just focus.
