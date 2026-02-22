@@ -28,8 +28,11 @@ CSS
 
 📦 Installation
 git clone https://github.com/DeDSeC-Co/Zen-T
+
 cd Zen-T
+
 npm install
+
 npm run dev
 
 follow through the link
